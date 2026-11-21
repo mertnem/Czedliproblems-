@@ -1,0 +1,1 @@
+In the article _Congruence Density of Finite Lattices: Recent Developments_ I review 9 problems proposed by G\'abor Cz\'edli. The nine articles providing the solutions are included in this repository. 
